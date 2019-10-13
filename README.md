@@ -1,6 +1,6 @@
-#HINGCN-GS
+#CLING-GS
 
-minibatched version of HINGCN based on the fork of graphsage:
+minibatched version of CLING based on the fork of graphsage:
 
 ### graphsage
 
