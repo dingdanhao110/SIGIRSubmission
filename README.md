@@ -1,4 +1,4 @@
-#####CLING-GS
+##### CLING-GS
 
 minibatched version of CLING based on the fork of graphsage `pytorch` version of https://github.com/williamleif/GraphSAGE
 
